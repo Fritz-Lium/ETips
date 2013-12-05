@@ -27,3 +27,13 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+#android ignore
+res/
+*.png
+.settings/
+
+
+
+
+
